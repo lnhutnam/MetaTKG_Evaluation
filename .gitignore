@@ -1,0 +1,9 @@
+# for python
+__pycache__
+*.pyc
+
+# for datasets
+gdelt
+icews05-15
+icews14
+
