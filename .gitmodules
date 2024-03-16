@@ -1,0 +1,9 @@
+[submodule "TFSC"]
+	path = TFSC
+	url = https://github.com/lnhutnam/TFSC
+[submodule "FTMO"]
+	path = FTMO
+	url = https://github.com/lnhutnam/FTMO
+[submodule "FTMF"]
+	path = FTMF
+	url = https://github.com/lnhutnam/FTMF
